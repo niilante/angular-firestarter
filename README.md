@@ -1,6 +1,6 @@
 # FireStarter - Angular4 + Firebase Starter App
 
-FireStarter is designed to handle the basic features most Angular+Firebase apps need. It can serve as a foundation to quickly roll out more complex features.
+Mantse is designed to handle the basic features most Angular+Firebase apps need. It can serve as a foundation to quickly roll out more complex features.
 
 [Live Demo](https://firestarter-96e46.firebaseapp.com/)
 [Lessons and Screencasts](https://angularfirebase.com)
@@ -17,8 +17,8 @@ FireStarter is designed to handle the basic features most Angular+Firebase apps 
 
 Create an account at https://firebase.google.com/
 
-- `git clone https://github.com/codediodeio/angular-firestarter.git firestarter`
-- `cd firestarter`
+- `git clone https://github.com/niilante/angular-firestarter.git mantse`
+- `cd mantse`
 - `npm install`
 
 Create the environment files below in `src/environments/`.
